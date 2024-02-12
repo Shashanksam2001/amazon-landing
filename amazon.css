@@ -1,0 +1,81 @@
+.menu{
+    display: flex;
+    background-color: black;
+    border-color: aliceblue;
+    border-style: solid;
+    text-align: center;
+    
+}
+.menu a{
+    padding: 10px;
+    color: aliceblue;
+}
+.top{
+    padding-top: 10px;
+}
+.dropdown-center{
+    background-color: black;
+    display: flex;
+    justify-content: left;
+    padding-top: 5px;
+    /* padding-left: 10px; */
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+.Sea{
+  padding-left: 15px;
+   padding-top: 15px;
+   padding-right: 15px;
+   color: white;
+}
+.img{
+    
+    width: 50%;
+    
+    
+}
+.dull{
+    display: flex;
+    
+}
+.img1 img{
+    width: 800px;
+    height: 170px;
+    
+   
+}
+.img2 img{
+    height: 169px;
+    width: 250px;
+}
+.img3 img{
+    width: 250px;
+    height: 169px;
+}
+.img5{
+    display: flex;
+}
+.img6 img{
+   width: 735px;
+    height: 340px;
+}
+.downpart{
+    display: flex;
+}
+.img7 img{
+    width: 800px;
+    height: 278px;
+}
+.id1{
+    padding: 5pxpx;
+}
+.id1 h3{
+    color: black;
+    justify-content: center;
+
+}
+    
+    
+    
+
+
